@@ -1,4 +1,4 @@
-# Hello, we're Homestead Robotics <img src="https://cdn.discordapp.com/emojis/796866828521570304.webp?size=96" width="36px" />
+# Hi, we're Homestead Robotics! <img src="https://cdn.discordapp.com/emojis/796866828521570304.webp?size=96" width="36px" />
 We're [Homestead Robotics](https://homesteadrobotics.com), a FIRST Robotics Competition team from Homestead High School in Cupertino, California. Here are some of our projects:
 
 ## Robot Code
