@@ -2,6 +2,7 @@
 We're [Homestead Robotics](https://homesteadrobotics.com), a FIRST Robotics Competition team from Homestead High School in Cupertino, California. Here are some of our projects:
 
 ## Robot Code
+- [2023 (Charged Up)](https://github.com/HHS-Team670/2023-Robot)
 - [2022 (Rapid React)](https://github.com/HHS-Team670/2022-Robot)
 - [2020-21 (Infinite Recharge)](https://github.com/HHS-Team670/2020-Robot)
 - [2019 (Destination: Deep Space)](https://github.com/HHS-Team670/2019-Robot)
