@@ -13,5 +13,4 @@ We're [Homestead Robotics](https://homesteadrobotics.com), a FIRST Robotics Comp
 - [2015 (Recycle Rush)](https://github.com/HHS-Team670/2015-Robot)
 
 ## Other public repositories
-- [MustangLib (generalized robot code library)](https://github.com/HHS-Team670/MustangLib)
-- [Minibots (Java teaching platform)](https://github.com/HHS-Team670/MustangMinibots)
+- [Minibots (Java teaching platform)](https://github.com/HHS-Team670/2025-Minibots)
